@@ -6,7 +6,9 @@
   <body>
 
     {% include sidebar.html %}
-
+	{% if page.bigImage != null %}
+	<div class="post-big-image" style="background-image: url({{page.bigImage}})"></div>
+	{% endif %}
     <div class="content container">
       {{ content }}
     </div>

@@ -7,20 +7,16 @@ permalink:        pretty
 
 # Setup
 title:            Emma
-tagline:          'A Jekyll theme'
-description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:              http://hyde.getpoole.com
+tagline:          'tagline'
+description:      'description'
+url:              http://www.emame.se
 
 author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
+  name:           'Emma Melander'
+  twitter:        https://twitter.com/emwie_
+  linkedin:       https://se.linkedin.com/in/emmamelander
+  github:         https://github.com/emame/emma
 
 paginate:         5
 gems: [jekyll-paginate]
 
-
-# Custom vars
-version:          2.0.0
-
-github:
-  repo:           https://github.com/poole/hyde
